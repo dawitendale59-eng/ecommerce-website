@@ -16,7 +16,8 @@ function App() {
    <Route path='/checkout' element={<Checkout />} />
   
     </Routes>
-  </div
+  </div>
+
     );
 }
 
