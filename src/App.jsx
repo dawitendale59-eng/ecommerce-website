@@ -15,7 +15,7 @@ function App() {
   <Route path='/auth' element={<Auth />} />
    <Route path='/checkout' element={<Checkout />} />
   
-    </Routes>
+    </Routes
   </div>
     );
 }
